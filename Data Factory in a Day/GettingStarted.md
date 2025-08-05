@@ -187,4 +187,4 @@ Before proceeding, locate the ellipses (**...**) next to the top-level year fold
 This conclusion of the lab has demonstrated how to get started with creating a task flow, a data pipeline, the copy activity, and the expression builder. By following these steps, you have gained practical experience in setting up and creating a data ingestion solution using Microsoft Fabric.
 
 - Continue to the [Data pipeline](./Orchestration.md) lab
-- Return to the [Data Factory in a Day](./README.md) homepage
+- Return to the [Data Factory in a Day](./README.md) homepage 
